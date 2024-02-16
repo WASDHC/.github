@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="LogoWASDHC.png" width=128 height=128>
+    <img src="Logo.png" width=128 height=128>
 </p>
 <h1 align="center">
     <span style="color: #FFAA00">WASD</span><span style="color: #55FF55">HC</span>.pl
