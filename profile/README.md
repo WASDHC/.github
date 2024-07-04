@@ -1,14 +1,23 @@
 <p align="center">
-    <img src="Logo.png" width=128 height=128>
-</p>
-<h1 align="center">
-    <span style="color: #FFAA00">WASD</span><span style="color: #55FF55">HC</span>.pl
-</h1>
-
-<p align="center">
-    Witaj na profilu oficjalnej organizacji serwera Minecraft - WASDHC.pl
+    <img src="./assets/Banner.png" width="1080">
 </p>
 
 <p align="center">
-    Strona serwera: <a href="https://wasdhc.pl/">https://wasdhc.pl/</a>
+    <span style="font-size: 36px;">
+        <b>WASDHC</b> - Coś więcej, niż zwykły serwer
+    </span>
 </p>
+
+<hr />
+
+<ul>
+    <li>
+        Strona serwera: https://wasdhc.pl/
+    </li>
+    <li>
+        Serwer Discord: https://dc.wasdhc.pl/
+    </li>
+    <li>
+        Deweloperzy: m0lc14kk, syylaxx
+    </li>
+</ul>
