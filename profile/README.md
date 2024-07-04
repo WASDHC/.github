@@ -6,12 +6,12 @@
 
 <ul>
     <li>
-        Strona serwera: https://wasdhc.pl/
+        Strona serwera: <b>https://wasdhc.pl/</b>
     </li>
     <li>
-        Serwer Discord: https://dc.wasdhc.pl/
+        Serwer Discord: <b>https:/dc.wasdhc.pl/</b>
     </li>
     <li>
-        Deweloperzy: m0lc14kk, syylaxx
+        Deweloperzy: <b>[m0lc14kk](https://github.com/m0lc14kk), [syylaxx](https://github.com/syylaxx)</b>
     </li>
 </ul>
