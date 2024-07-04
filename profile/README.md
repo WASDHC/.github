@@ -12,6 +12,6 @@
         Serwer Discord: <b>https:/dc.wasdhc.pl/</b>
     </li>
     <li>
-        Deweloperzy: <b>[m0lc14kk](https://github.com/m0lc14kk), [syylaxx](https://github.com/syylaxx)</b>
+        Deweloperzy: <b><a href="https://github.com/m0lc14kk">m0lc14kk</a></b>
     </li>
 </ul>
