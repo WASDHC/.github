@@ -2,12 +2,6 @@
     <img src="./assets/Banner.png" width="1080">
 </p>
 
-<p align="center">
-    <span style="font-size: 36px;">
-        <b>WASDHC</b> - Coś więcej, niż zwykły serwer
-    </span>
-</p>
-
 <hr />
 
 <ul>
